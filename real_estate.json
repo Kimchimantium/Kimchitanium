@@ -1,0 +1,332 @@
+[
+  {
+    "property_name": "화양현대",
+    "property_size": "78B㎡",
+    "property_town": "광장동",
+    "property_price": "6억 9,500"
+  },
+  {
+    "property_name": "자양5차현대",
+    "property_size": "83㎡",
+    "property_town": "광장동",
+    "property_price": "8억 9,000"
+  },
+  {
+    "property_name": "광장청구",
+    "property_size": "109㎡",
+    "property_town": "광장동",
+    "property_price": "12억 5,500"
+  },
+  {
+    "property_name": "효자촌미래타운",
+    "property_size": "157㎡",
+    "property_town": "수내동",
+    "property_price": "11억 8,000"
+  },
+  {
+    "property_name": "효자촌화성럭키",
+    "property_size": "73㎡",
+    "property_town": "수내동",
+    "property_price": "6억 9,900"
+  },
+  {
+    "property_name": "무지개마을10단지삼성건영",
+    "property_size": "160B㎡",
+    "property_town": "수내동",
+    "property_price": "10억 5,000"
+  },
+  {
+    "property_name": "양지마을2단지청구",
+    "property_size": "160㎡",
+    "property_town": "수내동",
+    "property_price": "18억"
+  },
+  {
+    "property_name": "이매촌6단지청구",
+    "property_size": "221㎡",
+    "property_town": "수내동",
+    "property_price": "21억 8,000"
+  },
+  {
+    "property_name": "미사강변사랑으로부영",
+    "property_size": "113A㎡",
+    "property_town": "망월동",
+    "property_price": "8억 5,000"
+  },
+  {
+    "property_name": "미사강변사랑으로부영",
+    "property_size": "113A㎡",
+    "property_town": "망월동",
+    "property_price": "8억"
+  },
+  {
+    "property_name": "e편한세상미사",
+    "property_size": "94㎡",
+    "property_town": "망월동",
+    "property_price": "8억 3,200"
+  },
+  {
+    "property_name": "미사강변센트럴자이",
+    "property_size": "117㎡",
+    "property_town": "망월동",
+    "property_price": "11억 7,500"
+  },
+  {
+    "property_name": "미사강변골든센트로",
+    "property_size": "82A㎡",
+    "property_town": "망월동",
+    "property_price": "7억 8,000"
+  },
+  {
+    "property_name": "삼부",
+    "property_size": "82㎡",
+    "property_town": "신흥동",
+    "property_price": "6억"
+  },
+  {
+    "property_name": "산성역자이푸르지오",
+    "property_size": "68A㎡",
+    "property_town": "신흥동",
+    "property_price": "입주권"
+  },
+  {
+    "property_name": "산성역자이푸르지오",
+    "property_size": "97A㎡",
+    "property_town": "신흥동",
+    "property_price": "6억 7,650"
+  },
+  {
+    "property_name": "파라곤센트럴파크",
+    "property_size": "111A㎡",
+    "property_town": "가정동",
+    "property_price": "5억 9,900"
+  },
+  {
+    "property_name": "검단신도시예미지트리플에듀",
+    "property_size": "110B㎡",
+    "property_town": "가정동",
+    "property_price": "4억 4,000"
+  },
+  {
+    "property_name": "검단신도시한신더휴캐널파크",
+    "property_size": "95A㎡",
+    "property_town": "가정동",
+    "property_price": "5억 7,000"
+  },
+  {
+    "property_name": "루원호반베르디움더센트럴",
+    "property_size": "100B㎡",
+    "property_town": "가정동",
+    "property_price": "5억 5,000"
+  },
+  {
+    "property_name": "트윈팰리스",
+    "property_size": "86㎡",
+    "property_town": "가정동",
+    "property_price": "1억 9,000"
+  },
+  {
+    "property_name": "헬리오시티",
+    "property_size": "107A㎡",
+    "property_town": "잠실동",
+    "property_price": "20억 7,000"
+  },
+  {
+    "property_name": "송파더센트레",
+    "property_size": "85C㎡",
+    "property_town": "잠실동",
+    "property_price": "10억 9,000"
+  },
+  {
+    "property_name": "파크리오",
+    "property_size": "109㎡",
+    "property_town": "잠실동",
+    "property_price": "21억 7,000"
+  },
+  {
+    "property_name": "파크리오",
+    "property_size": "109㎡",
+    "property_town": "잠실동",
+    "property_price": "20억 8,000"
+  },
+  {
+    "property_name": "리센츠",
+    "property_size": "42A㎡",
+    "property_town": "잠실동",
+    "property_price": "9억 4,000"
+  },
+  {
+    "property_name": "래미안슈르",
+    "property_size": "86㎡",
+    "property_town": "원문동",
+    "property_price": "12억 3,000"
+  },
+  {
+    "property_name": "주공8단지",
+    "property_size": "101㎡",
+    "property_town": "원문동",
+    "property_price": "16억 1,000"
+  },
+  {
+    "property_name": "주공9단지",
+    "property_size": "88㎡",
+    "property_town": "원문동",
+    "property_price": "16억 1,000"
+  },
+  {
+    "property_name": "디에이치아너힐즈",
+    "property_size": "114A㎡",
+    "property_town": "역삼동",
+    "property_price": "29억 5,000"
+  },
+  {
+    "property_name": "우림루미아트",
+    "property_size": "30C㎡",
+    "property_town": "역삼동",
+    "property_price": "2억 1,000"
+  },
+  {
+    "property_name": "우찬현대",
+    "property_size": "152㎡",
+    "property_town": "역삼동",
+    "property_price": "14억 9,000"
+  },
+  {
+    "property_name": "광명해모로이연",
+    "property_size": "173A㎡",
+    "property_town": "광명동",
+    "property_price": "8억 7,000"
+  },
+  {
+    "property_name": "남산타운",
+    "property_size": "139㎡",
+    "property_town": "신당동",
+    "property_price": "12억 8,000"
+  },
+  {
+    "property_name": "남산타운",
+    "property_size": "85㎡",
+    "property_town": "신당동",
+    "property_price": "10억 2,500"
+  },
+  {
+    "property_name": "은평뉴타운우물골2단지(245~255동)",
+    "property_size": "165A㎡",
+    "property_town": "신사동",
+    "property_price": "10억 5,000"
+  },
+  {
+    "property_name": "신사성원",
+    "property_size": "97㎡",
+    "property_town": "신사동",
+    "property_price": "4억 8,400"
+  },
+  {
+    "property_name": "신일해피트리",
+    "property_size": "79㎡",
+    "property_town": "사당동",
+    "property_price": "9억 1,500"
+  },
+  {
+    "property_name": "보라매롯데낙천대",
+    "property_size": "74㎡",
+    "property_town": "사당동",
+    "property_price": "7억 5,000"
+  },
+  {
+    "property_name": "극동",
+    "property_size": "59㎡",
+    "property_town": "사당동",
+    "property_price": "6억 8,500"
+  },
+  {
+    "property_name": "논현푸르지오더퍼스트",
+    "property_size": "82A㎡",
+    "property_town": "서창동",
+    "property_price": "3억 9,500"
+  },
+  {
+    "property_name": "논현푸르지오더퍼스트",
+    "property_size": "82A㎡",
+    "property_town": "서창동",
+    "property_price": "3억 9,000"
+  },
+  {
+    "property_name": "이편한세상서창",
+    "property_size": "109㎡",
+    "property_town": "서창동",
+    "property_price": "5억"
+  },
+  {
+    "property_name": "논현센트럴뷰",
+    "property_size": "84B㎡",
+    "property_town": "서창동",
+    "property_price": "4억 2,000"
+  },
+  {
+    "property_name": "논현유호엔시티1단지",
+    "property_size": "124㎡",
+    "property_town": "서창동",
+    "property_price": "3억 2,000"
+  },
+  {
+    "property_name": "리더스",
+    "property_size": "36D㎡",
+    "property_town": "면목동",
+    "property_price": "2억 9,500"
+  },
+  {
+    "property_name": "신내역금강펜테리움센트럴파크",
+    "property_size": "109㎡",
+    "property_town": "면목동",
+    "property_price": "8억 5,000"
+  },
+  {
+    "property_name": "경남아너스빌",
+    "property_size": "107㎡",
+    "property_town": "면목동",
+    "property_price": "7억"
+  },
+  {
+    "property_name": "벽산",
+    "property_size": "108㎡",
+    "property_town": "면목동",
+    "property_price": "5억 4,000"
+  },
+  {
+    "property_name": "별내자이더스타",
+    "property_size": "138B㎡",
+    "property_town": "호평동",
+    "property_price": "10억 6,000"
+  },
+  {
+    "property_name": "두산알프하임",
+    "property_size": "98B㎡",
+    "property_town": "호평동",
+    "property_price": "4억 4,000"
+  },
+  {
+    "property_name": "다산금강펜테리움리버테라스1차",
+    "property_size": "109A㎡",
+    "property_town": "호평동",
+    "property_price": "8억"
+  },
+  {
+    "property_name": "다산한양수자인리버팰리스",
+    "property_size": "110B㎡",
+    "property_town": "호평동",
+    "property_price": "8억 8,500"
+  },
+  {
+    "property_name": "남양주월산사랑으로부영1단지",
+    "property_size": "177A㎡",
+    "property_town": "호평동",
+    "property_price": "4억 3,500"
+  },
+  {
+    "property_name": "수유벽산1차",
+    "property_size": "84㎡",
+    "property_town": "수유동",
+    "property_price": "5억 2,000"
+  }
+]
